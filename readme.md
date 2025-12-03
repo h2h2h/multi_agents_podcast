@@ -115,8 +115,8 @@ graph TD
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/ai-podcast.git
-    cd ai-podcast
+    git clone https://github.com//h2h2h/multi_agents_podcast.git
+    cd multi_agents_podcast
     ```
 
 2.  **Install dependencies**
@@ -129,16 +129,8 @@ graph TD
     *   Configure your LLM endpoints (or local paths for Qwen/Hunyuan) in `config.yaml`.
 
 ### Usage
+**Todo**
 
-**Basic Run (Lite Mode):**
-```bash
-python main.py --mode lite --topic "The Future of AI"
-```
-
-**Deep Exploration Mode (Preview):**
-```bash
-python main.py --mode deep --topic "History of Quantum Computing" --search True
-```
 
 ---
 
@@ -148,10 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the Apache 2.0 License.
-```
-
-### Tips for your project:
-1.  **Mermaid Diagram**: GitHub supports Mermaid diagrams natively. The code block above will render automatically on GitHub.
-2.  **Badges**: Replace the placeholder links in the badges section with your actual repository URL and license file once created.
-3.  **Images**: If you have a screenshot of the terminal interface or a generated audio sample, adding it to the README (under an "Examples" section) significantly boosts engagement.
+This project is licensed under the MIT License.
